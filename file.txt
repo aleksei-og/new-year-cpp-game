@@ -1,0 +1,13 @@
+fff:1
+ddd:1
+ddd:1
+ddd:1
+ggg:1
+ddd:1
+ggg:1
+ddd:1
+ggg:1
+ddd:1
+ggg:1
+ddd:1
+yyy:48
